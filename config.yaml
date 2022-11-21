@@ -1,0 +1,6 @@
+
+CronSchedule        : "0,0,60,0"    
+CleanupCronSchedule : "0,0,8,0"
+CleanupResources    : true
+Version : 1
+PORT : "8080"
